@@ -1,0 +1,5 @@
+C:\Users\heman\source\repos\SampleSchool\Sampleschool.Model\bin\Debug\Sampleschool.Model.dll
+C:\Users\heman\source\repos\SampleSchool\Sampleschool.Model\bin\Debug\Sampleschool.Model.pdb
+C:\Users\heman\source\repos\SampleSchool\Sampleschool.Model\obj\Debug\Sampleschool.Model.csproj.CoreCompileInputs.cache
+C:\Users\heman\source\repos\SampleSchool\Sampleschool.Model\obj\Debug\Sampleschool.Model.dll
+C:\Users\heman\source\repos\SampleSchool\Sampleschool.Model\obj\Debug\Sampleschool.Model.pdb

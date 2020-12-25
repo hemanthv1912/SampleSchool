@@ -1,0 +1,14 @@
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\obj\Debug\SampleSchool.Data.csprojAssemblyReference.cache
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\obj\Debug\SampleSchool.Data.csproj.CoreCompileInputs.cache
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\SampleSchool.Data.dll.config
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\SampleSchool.Data.dll
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\SampleSchool.Data.pdb
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\EntityFramework.dll
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\Sampleschool.Model.dll
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\Sampleschool.Model.pdb
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\EntityFramework.xml
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\obj\Debug\SampleSchool.Data.csproj.CopyComplete
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\obj\Debug\SampleSchool.Data.dll
+C:\Users\heman\source\repos\SampleSchool\SampleSchool.Data\obj\Debug\SampleSchool.Data.pdb

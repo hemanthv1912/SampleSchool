@@ -1,0 +1,16 @@
+﻿@model List<SampleSchool.Models.ClassA>
+@{
+    ViewBag.Title = "This is Class A";
+}
+
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@foreach(var classA in Model)
+{
+    <p>@classA.studentId @classA.studentName @classA.sub1 @classA.sub2 @classA.sub3</p>
+}
+
+
+
+
